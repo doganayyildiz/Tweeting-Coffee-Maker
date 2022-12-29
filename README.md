@@ -11,3 +11,7 @@ I unscrewed the button of the coffee machine. Basically I placed a button.
 I connected the button to rsp pico. Yes... you need a raspberry pi pico. this pico must be w model because necessary to connect to wifi.
 Later i wrote this code in python.
 Good Luck.
+
+İnstagram: https://www.instagram.com/benrobotx
+
+(for details https://www.instagram.com/p/Cl_I-vrsf6i/)
